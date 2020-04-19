@@ -52,7 +52,7 @@ bot.onText(/\/help/, (msg) => {
 
 
 
-    bot.sendMessage(msg.chat.id, "Type /city then type city name");
+    bot.sendMessage(msg.chat.id, "Type /city then type city name Example: /city ...wait for message... Phnom Penh");
 
 
 }
